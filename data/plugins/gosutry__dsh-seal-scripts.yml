@@ -1,0 +1,6 @@
+url: https://github.com/gosutry/dsh-seal-scripts
+name: gosutry/dsh-seal-scripts
+category: tools
+description:
+  en: Seal proven command chains into reusable executable tool scripts, and keep compacted conversations as recall files.
+  zh: 把跑通的命令链固存成可复用工具脚本，并把被压缩的对话留成回顾。
